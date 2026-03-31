@@ -1,0 +1,53 @@
+
+body {
+
+    background-color: #E6E8E6;
+}
+
+* |{
+    margin: 0px;
+}
+
+nav {
+    background-color: #3A6EA5;
+}
+
+
+
+#main_nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 60vw;
+    height: 80px;
+}
+
+#a1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#nav_logo {
+    margin-left: 50px;
+}
+
+#nav_end {
+    margin-right: 70px;
+}
+
+#Hero_section {
+    background-image: url("hero_img.jpeg");
+}
