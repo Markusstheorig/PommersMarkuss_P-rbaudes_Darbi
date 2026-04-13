@@ -195,13 +195,12 @@ h4 {
 }
 
 #a1 a p:hover {
-    color: white;
+    color: #E6E8E6;
 }
 
 
 .sale_png {
     width: 12vw;
-    height: 6.8wh;
     transition: 0.3s;
 }
 

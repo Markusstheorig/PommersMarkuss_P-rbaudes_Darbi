@@ -100,7 +100,6 @@ header {
     margin-top: 20px;
 }
     
-}
 
 .sale_png {
     width: 12vw;
@@ -194,7 +193,6 @@ h4 {
 
 .sale_png {
     width: 12vw;
-    height: 6.8wh;
     transition: 0.3s;
 }
 
@@ -208,7 +206,7 @@ h4 {
 }
 
 #a1 a p:hover {
-    color: white;
+    color: #E6E8E6;
     cursor: pointer;
 }
 
@@ -217,7 +215,7 @@ h4 {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    margin: 0px 15px;
+    margin: 0px 8px;
     margin-bottom: 10px;
     background-color: #E6E8E6;
     padding: 15px;
